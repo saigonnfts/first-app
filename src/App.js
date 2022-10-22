@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          You Can Learn React
         </a>
         <p>
           My First <code>App</code> in NodeJS.
